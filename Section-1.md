@@ -19,7 +19,7 @@ git commit
 
 git commit
 ```
-#Outcome
+# Outcome
 
 Commits are created successfully
 
