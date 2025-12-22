@@ -19,9 +19,4 @@ The main branch pointer advances with each commit, and HEAD remains on main.
 ```git commit
 git commit```
 
-Commits are the foundation of Git
-
-Every commit represents a saved version
-
-Branch pointers move with commits
 
