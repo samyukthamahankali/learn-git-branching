@@ -26,3 +26,13 @@ Branch pointer moves forward
 
 Repository history is updated
 
+
+#Level 2 - Branching in Git
+
+This level demonstrates branch creation and branch switching.
+
+A new branch named bugFix is created using git branch.
+
+The git checkout command moves HEAD to the bugFix branch.
+
+No new commits are created in this level.
