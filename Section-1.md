@@ -1,5 +1,4 @@
-<img width="1920" height="994" alt="Screenshot 2025-12-22 150845" src="https://github.com/user-attachments/assets/5bdbfa4d-27ca-40c3-80a0-031ce83620d6" /># Section-1
-
+# Section - 1
 # Level - 1 - Git Commit
 
 This level introduces Git commits.
