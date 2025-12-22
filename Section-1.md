@@ -19,11 +19,11 @@ The main branch pointer advances with each commit, and HEAD remains on main.
 git commit
 git commit
 
-**outcome
+#Outcome
 
 Commits are created successfully
 
 Branch pointer moves forward
 
-Repository history is updated**
+Repository history is updated
 
