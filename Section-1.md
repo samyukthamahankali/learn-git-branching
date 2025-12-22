@@ -79,7 +79,8 @@ The git merge command merges bugFix into main.
 Since both branches contain different commits, Git creates a merge commit.
 
 
-<img width="1920" height="1005" alt="Screenshot 2025-12-22 151444" src="https://github.com/user-attachments/assets/ab07a287-30a7-4572-8038-2e039ba259fb" />
+<img width="1920" height="1005" alt="Screenshot 2025-12-22 151444" src="https://github.com/user-attachments/assets/40f65b2b-7d08-47c7-8c7b-aa6089f9b7fe" />
+
 
 ## Commands Used
 
