@@ -102,6 +102,15 @@ git commit
 ## Commands Used
 
 ```bash
-git commit
 git checkout main
+git commit
 ```
+
+<img width="1920" height="1005" alt="Screenshot 2025-12-22 151631" src="https://github.com/user-attachments/assets/01150e26-1563-4889-a7b7-fb96223293be" />
+
+## Commands Used
+
+```bash
+git merge bugFix
+```
+
