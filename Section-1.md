@@ -20,8 +20,8 @@ HEAD remains pointing to main
 
 ## Commands Used
 ```bash
-git commit
-git commit
+```git commit
+git commit```
 
 Commits are the foundation of Git
 
