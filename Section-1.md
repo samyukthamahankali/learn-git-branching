@@ -67,6 +67,17 @@ HEAD points to bugFix
 
 # Level - 3 - Merging in git
 
+This level demonstrates merging branches.
+
+A new branch bugFix is created and a commit is added to it.
+
+Another commit is added on the main branch.
+
+The git merge command merges bugFix into main.
+
+Since both branches contain different commits, Git creates a merge commit.
+
+
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 151444" src="https://github.com/user-attachments/assets/ab07a287-30a7-4572-8038-2e039ba259fb" />
 
 ## Commands Used
