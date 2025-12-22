@@ -1,4 +1,4 @@
-# Section-1
+<img width="1920" height="994" alt="Screenshot 2025-12-22 150845" src="https://github.com/user-attachments/assets/5bdbfa4d-27ca-40c3-80a0-031ce83620d6" /># Section-1
 
 # Level - 1 - Git Commit
 
@@ -11,6 +11,9 @@ Each commit records the current state of the repository.
 The main branch pointer advances with each commit, and HEAD remains on main.
 
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 150814" src="https://github.com/user-attachments/assets/343fae9a-e0ba-406e-860a-04524862c37e" />
+
+<img width="1920" height="994" alt="Screenshot 2025-12-22 150845" src="https://github.com/user-attachments/assets/3c40c81c-018a-4514-ba90-b6de5da32060" />
+
 
 
 ## Commands Used
