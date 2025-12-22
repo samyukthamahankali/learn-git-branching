@@ -7,6 +7,7 @@ I performed commits on the main branch to understand how Git saves changes.
 
 Each commit represents a saved state of the repository.
 
+# Goal to reach
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 150814" src="https://github.com/user-attachments/assets/343fae9a-e0ba-406e-860a-04524862c37e" />
 
 ## Commands Used
@@ -32,11 +33,15 @@ I observed that the main branch pointer moves forward after every commit.
 
 I learned that HEAD points to the current branch.
 
+# Solved
+
 # Level - 2 - Branching in Git
 
 This level explains how to create a new branch and switch between branches.
 
 I created a branch named bugFix and moved HEAD to it without creating a new commit.
+
+# Goal to reach
 
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 151130" src="https://github.com/user-attachments/assets/531258d1-6070-4b74-a38a-c5f5a85b9f44" />
 
@@ -65,6 +70,8 @@ I observed that no new commit was created.
 
 I understood that HEAD now points to the bugFix branch.
 
+# Solved
+
 # Level - 3 - Merging in git
 
 This level demonstrates merging two branches.
@@ -72,6 +79,8 @@ This level demonstrates merging two branches.
 I added commits to both bugFix and main branches and then merged bugFix into main.
 
 Since both branches had different commits, Git created a merge commit.
+
+# Goal to reach
 
 <img width="1920" height="1003" alt="Screenshot 2025-12-22 151354" src="https://github.com/user-attachments/assets/0d22c419-c14e-46b3-9600-8bab14374cf9" />
 
@@ -119,6 +128,7 @@ I merged bugFix into main.
 
 I observed how Git creates a merge commit when histories diverge.
 
+# Solved
 
 # Level - 4 - Rebase Introduction
 
@@ -127,6 +137,8 @@ This level explains the rebase operation in Git.
 I created commits on both branches and rebased bugFix onto main.
 
 Rebase moved the commits of bugFix on top of main, resulting in a linear history.
+
+# Goal to reach
 
 <img width="1920" height="1011" alt="Screenshot 2025-12-22 152616" src="https://github.com/user-attachments/assets/a7c865e9-5567-47c9-a1b7-2742802ba99d" />
 
@@ -171,6 +183,7 @@ I created commits on both branches.
 
 I rebased the bugFix branch onto main.
 
+# Solved
 I observed that no merge commit was created.
 
 I understood how rebase helps maintain a clean commit history.
