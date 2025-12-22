@@ -45,3 +45,8 @@ No new commits are created in this level.
 
 <img width="1920" height="1011" alt="Screenshot 2025-12-22 150946" src="https://github.com/user-attachments/assets/f02c80a7-325f-46c3-9659-d0bd2abd2ae2" />
 
+## Commands Used
+
+```bash
+git branch bugFix
+```
