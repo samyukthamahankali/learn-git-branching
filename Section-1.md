@@ -59,3 +59,10 @@ git branch bugFix
 git checkout bugFix
 ```
 
+<img width="1920" height="1005" alt="Screenshot 2025-12-22 151444" src="https://github.com/user-attachments/assets/ab07a287-30a7-4572-8038-2e039ba259fb" />
+
+## Commands Used
+
+```bash
+git commit
+```
