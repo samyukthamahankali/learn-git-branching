@@ -84,5 +84,5 @@ Since both branches contain different commits, Git creates a merge commit.
 ## Commands Used
 
 ```bash
-git commit
+git branch bugFix
 ```
