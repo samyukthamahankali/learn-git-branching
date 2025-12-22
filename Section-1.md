@@ -50,3 +50,12 @@ No new commits are created in this level.
 ```bash
 git branch bugFix
 ```
+
+<img width="1920" height="1011" alt="Screenshot 2025-12-22 151220" src="https://github.com/user-attachments/assets/2a6c0806-c1f4-4641-83bf-c3b3b213228e" />
+
+## Commands Used
+
+```bash
+git checkout bugFix
+```
+
