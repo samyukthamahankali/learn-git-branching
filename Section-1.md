@@ -16,6 +16,7 @@ The main branch pointer advances with each commit, and HEAD remains on main.
 ## Commands Used
 ```bash```
 git commit
+
 git commit
 
 #Outcome
