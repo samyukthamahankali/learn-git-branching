@@ -43,7 +43,7 @@ The git checkout command moves HEAD to the bugFix branch.
 
 No new commits are created in this level.
 
-<img width="1920" height="1011" alt="Screenshot 2025-12-22 150946" src="https://github.com/user-attachments/assets/f02c80a7-325f-46c3-9659-d0bd2abd2ae2" />
+<img width="1920" height="1011" alt="Screenshot 2025-12-22 151220" src="https://github.com/user-attachments/assets/2a6c0806-c1f4-4641-83bf-c3b3b213228e" />
 
 ## Commands Used
 
