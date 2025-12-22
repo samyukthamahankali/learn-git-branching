@@ -114,3 +114,57 @@ git commit
 git merge bugFix
 ```
 
+# Outcome
+
+Branch histories are combined
+
+Merge commit is created
+
+main branch includes changes from bugFix
+
+
+# Level - 4 - Rebase Introduction
+
+This level demonstrates rebasing a branch.
+
+A commit is added to both bugFix and main.
+The git rebase main command re-applies the bugFix commits on top of main.
+
+This results in a linear commit history without a merge commit.
+
+<img width="1920" height="1011" alt="Screenshot 2025-12-22 152616" src="https://github.com/user-attachments/assets/a7c865e9-5567-47c9-a1b7-2742802ba99d" />
+
+
+## Commands Used
+
+```bash
+git branch bugFix
+git commit
+```
+
+<img width="1920" height="1000" alt="Screenshot 2025-12-22 151929" src="https://github.com/user-attachments/assets/3d95cc5a-7d5d-43fb-910b-03f5d1a79c2d" />
+
+## Commands Used
+
+```bash
+git checkout bugFix
+git commit
+```
+
+<img width="1920" height="998" alt="Screenshot 2025-12-22 152647" src="https://github.com/user-attachments/assets/058ded55-6128-4a71-9446-882a44e57f03" />
+
+## Commands Used
+
+```bash
+git checkout main
+git commit
+```
+
+<img width="1920" height="1009" alt="Screenshot 2025-12-22 152731" src="https://github.com/user-attachments/assets/1b33e460-241b-4cac-b0fb-fefcfeef4271" />
+
+## Commands Used
+
+```bash
+git checkout bugFix
+git rebase main
+```
