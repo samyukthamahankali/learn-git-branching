@@ -86,3 +86,22 @@ Since both branches contain different commits, Git creates a merge commit.
 ```bash
 git branch bugFix
 ```
+
+<img width="1920" height="1005" alt="Screenshot 2025-12-22 151444" src="https://github.com/user-attachments/assets/b9c7689b-27cc-4750-8268-be8b0adcb271" />
+
+## Commands Used
+
+```bash
+git checkout bugFix
+
+git commit
+```
+
+<img width="1920" height="1003" alt="Screenshot 2025-12-22 151531" src="https://github.com/user-attachments/assets/a7389978-7b68-49d9-b1a6-4a272d360074" />
+
+## Commands Used
+
+```bash
+git commit
+git checkout main
+```
