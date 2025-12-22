@@ -168,3 +168,9 @@ git commit
 git checkout bugFix
 git rebase main
 ```
+
+# Outcome
+
+Commit history is rewritten
+
+No merge commit is created
