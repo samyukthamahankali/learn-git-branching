@@ -27,7 +27,7 @@ Branch pointer moves forward
 Repository history is updated
 
 
-#Level 2 - Branching in Git
+# Level - 2 - Branching in Git
 
 This level demonstrates branch creation and branch switching.
 
