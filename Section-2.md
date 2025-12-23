@@ -92,4 +92,38 @@ Relative references using ~ are applied correctly.
 
 HEAD navigation using relative commits is understood.
 
+# Level - 4 -  Reversing Changes in Git
 
+This level explains how to reverse changes using reset and revert.
+
+The reset command moves the branch pointer backward.
+
+The revert command creates a new commit that undoes a previous commit.
+
+<img width="1920" height="996" alt="2 4" src="https://github.com/user-attachments/assets/319a2090-c57b-45c6-bfa1-69d79e009e65" />
+
+<img width="1920" height="1000" alt="2 4 1" src="https://github.com/user-attachments/assets/5d6419b1-6405-4b52-97b8-38c091130d28" />
+
+# Commands Used
+
+```bash
+git reset HEAD~1
+```
+
+<img width="1920" height="992" alt="2 4 2" src="https://github.com/user-attachments/assets/77c49bed-7835-4ba8-ad8e-a515d2be053f" />
+
+```bash
+git checkout pushed
+```
+
+<img width="1920" height="1000" alt="2 4 3" src="https://github.com/user-attachments/assets/ac0230c7-d31b-4068-806d-1c817b0536b8" />
+
+```bash
+git revert HEAD
+```
+
+Differences between reset and revert are understood.
+
+Commit history is modified using reset.
+
+Changes are safely undone using revert.
