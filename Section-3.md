@@ -8,6 +8,8 @@ Cherry-pick is used to copy specific commits from one branch and apply them onto
 
 Only the selected commits are applied, without merging the entire branch.
 
+# Goal to reach 
+
 <img width="1920" height="980" alt="3 1" src="https://github.com/user-attachments/assets/36f37f31-af79-4909-9950-fe338c11ba6b" />
 
 <img width="1920" height="1000" alt="3 1 1" src="https://github.com/user-attachments/assets/6b35e9bf-026f-4e0b-ae66-08af79f04d08" />
@@ -33,6 +35,8 @@ This level introduces interactive rebase in Git.
 Interactive rebase allows editing, reordering, or removing commits before applying them.
 
 The rebase target can be specified using a branch name or a relative reference.
+
+# Goal to reach 
 
 <img width="1920" height="1005" alt="3 2" src="https://github.com/user-attachments/assets/636c246e-df88-4721-bb4e-4f55bb878d35" />
 
