@@ -64,6 +64,8 @@ The tilde operator moves multiple commits back in history.
 
 Branch forcing is used to move branch pointers to specific commits
 
+# Goal to reach
+
 <img width="1920" height="1009" alt="2 3" src="https://github.com/user-attachments/assets/be56ccbf-ac16-4770-a2f7-9820081c1d59" />
 
 <img width="1920" height="1009" alt="2 3 1" src="https://github.com/user-attachments/assets/aa192273-d25f-433d-b790-e9a2904b5372" />
@@ -99,6 +101,8 @@ This level explains how to reverse changes using reset and revert.
 The reset command moves the branch pointer backward.
 
 The revert command creates a new commit that undoes a previous commit.
+
+# Goal to reach
 
 <img width="1920" height="996" alt="2 4" src="https://github.com/user-attachments/assets/319a2090-c57b-45c6-bfa1-69d79e009e65" />
 
