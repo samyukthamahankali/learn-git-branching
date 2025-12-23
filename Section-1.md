@@ -46,6 +46,9 @@ This level explains how to create a new branch and switch between branches.
 
 # Goal to reach
 
+<img width="1920" height="1005" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/516d4d13-e2bf-4df9-bf94-64e433d4d3b6" />
+
+
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 151130" src="https://github.com/user-attachments/assets/531258d1-6070-4b74-a38a-c5f5a85b9f44" />
 
 
