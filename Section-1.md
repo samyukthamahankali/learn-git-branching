@@ -145,6 +145,9 @@ Rebase moved the commits of bugFix on top of main, resulting in a linear history
 
 # Goal to reach
 
+<img width="1920" height="993" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/c107811d-f390-4925-b43a-224d9cd18c9f" />
+
+
 <img width="1920" height="1011" alt="Screenshot 2025-12-22 152616" src="https://github.com/user-attachments/assets/a7c865e9-5567-47c9-a1b7-2742802ba99d" />
 
 
