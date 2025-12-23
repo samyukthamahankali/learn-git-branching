@@ -8,6 +8,10 @@ This level introduces the concept of Git commits.
 Each commit represents a saved state of the repository.
 
 # Goal to reach
+
+<img width="1920" height="1000" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e4a25e5d-0bd9-4206-85ac-672754ae9f13" />
+
+
 <img width="1920" height="1005" alt="Screenshot 2025-12-22 150814" src="https://github.com/user-attachments/assets/343fae9a-e0ba-406e-860a-04524862c37e" />
 
 ## Commands Used
