@@ -56,4 +56,33 @@ HEAD moves to the parent commit of a branch.
 
 Navigation through commit history is understood
 
+# Level - 3 - Relative Refs #2 (~)
+
+This level demonstrates advanced relative references using the tilde (~) operator.
+
+The tilde operator moves multiple commits back in history.
+
+Branch forcing is used to move branch pointers to specific commits
+
+<img width="1920" height="1009" alt="2 3" src="https://github.com/user-attachments/assets/be56ccbf-ac16-4770-a2f7-9820081c1d59" />
+
+<img width="1920" height="1009" alt="2 3 1" src="https://github.com/user-attachments/assets/aa192273-d25f-433d-b790-e9a2904b5372" />
+
+# Commands Used
+
+```bash
+git branch -f main C6
+```
+
+<img width="1920" height="1005" alt="2 3 2" src="https://github.com/user-attachments/assets/3660365c-25fe-437b-8bad-527f98d23999" />
+
+```bash
+git checkout HEAD~1
+```
+
+<img width="1920" height="1009" alt="2 3 3" src="https://github.com/user-attachments/assets/f31994cc-eab4-4fbc-aaa2-7c99bafc23c5" />
+
+```bash
+git branch -f bugFix HEAD~1
+```
 
