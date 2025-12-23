@@ -86,3 +86,10 @@ git checkout HEAD~1
 git branch -f bugFix HEAD~1
 ```
 
+Branch pointers are forcefully moved to selected commits.
+
+Relative references using ~ are applied correctly.
+
+HEAD navigation using relative commits is understood.
+
+
