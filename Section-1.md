@@ -81,11 +81,15 @@ git checkout bugFix
 
 This level demonstrates merging two branches.
 
- added commits to both bugFix and main branches and then merged bugFix into main.
+Added commits to both bugFix and main branches and then merged bugFix into main.
 
 Since both branches had different commits, Git created a merge commit.
 
 # Goal to reach
+
+
+<img width="1920" height="1009" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/eb67485d-2d1a-4fe8-a755-49ae0a1357a0" />
+
 
 <img width="1920" height="1003" alt="Screenshot 2025-12-22 151354" src="https://github.com/user-attachments/assets/0d22c419-c14e-46b3-9600-8bab14374cf9" />
 
