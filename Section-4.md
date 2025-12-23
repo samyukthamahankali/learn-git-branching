@@ -23,3 +23,14 @@ git rebase -i main
 git rebase bugFix main
 ```
 
+A single required commit is selected successfully.
+
+Unwanted commits are excluded from the history.
+
+Interactive rebase usage is reinforced.
+
+Commit history becomes precise and clean.
+
+# Level - 2 - Juggling Commits
+
+
